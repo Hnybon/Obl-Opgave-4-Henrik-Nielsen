@@ -1,0 +1,9 @@
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\bin\Debug\netcoreapp2.1\RestLibrary.deps.json
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\bin\Debug\netcoreapp2.1\RestLibrary.dll
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\bin\Debug\netcoreapp2.1\RestLibrary.pdb
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\obj\Debug\netcoreapp2.1\RestLibrary.csprojAssemblyReference.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\obj\Debug\netcoreapp2.1\RestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\obj\Debug\netcoreapp2.1\RestLibrary.AssemblyInfoInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\obj\Debug\netcoreapp2.1\RestLibrary.AssemblyInfo.cs
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\obj\Debug\netcoreapp2.1\RestLibrary.dll
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\RestLibrary\obj\Debug\netcoreapp2.1\RestLibrary.pdb

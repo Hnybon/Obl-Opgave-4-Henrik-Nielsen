@@ -1,0 +1,17 @@
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.deps.json
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.runtimeconfig.json
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.runtimeconfig.dev.json
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.dll
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\bin\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.pdb
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\bin\Debug\netcoreapp2.1\RestLibrary.dll
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\bin\Debug\netcoreapp2.1\RestLibrary.pdb
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.csprojAssemblyReference.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.csproj.CoreCompileInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.RazorAssemblyInfo.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.RazorAssemblyInfo.cs
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.AssemblyInfoInputs.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.AssemblyInfo.cs
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.RazorTargetAssemblyInfo.cache
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.csproj.CopyComplete
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.dll
+C:\Users\hnybo\source\repos\Obl Opgave 4 Henrik Nielsen\Obl Opgave 4 Henrik Nielsen\obj\Debug\netcoreapp2.1\Obl Opgave 4 Henrik Nielsen.pdb
